@@ -1,0 +1,66 @@
+body {
+    font-family: monospace;
+    font-weight: bold;
+    background-color: #0644c2;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+h4
+{
+    background-color: #46565c;
+    line-height: 2;
+    margin: 0px;
+}
+
+#gtitle {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background: white;
+}
+
+#pmod {
+    font-size: 30px;
+}
+
+.info {
+    font-size: 20px;
+}
+
+#GBox {
+    height: 330px;
+    width: 250px;
+}
+
+#warning {
+    font-size: 15px;
+    color: whitesmoke;
+    font-family: monospace;
+    font-weight: normal;
+}
+
+#contact {
+    background: #09d4e3;
+    color: black;
+}
+
+#gbody {
+    color: black;
+}
+
+.textName {
+    background: white;
+}
+
+#gheader {
+    background: white;
+}
+
+#abody {
+    background: #47a893;
+}
+
+#pbody {
+    background: #850d0d;
+}
